@@ -1,0 +1,41 @@
+intro (8 bars)
+Em C| Bm Am (x4)
+
+v (8)
+Em C| Bm Am
+Em C| Bm Am
+Em C| Bm Am
+Em C| Bm D
+(The D, the VII,  is important, it moves us into the chorus which is a major key)
+
+chorus (16)
+| G  | G with a motif thing
+| D  | D+thing
+| Em | Em+thing
+| A (maybe Am?)  | C Bm|   this line has different rhythm to the other three
+(x2)
+
+verse (8)
+chorus (16)
+
+bridge (16) is same as chorus, with a riff
+
+
+intro again (8), (ie instr. verse)
+
+chorus (16)
+ outro (16) is another bridge, ie chorus+riff.
+
+----------------
+
+i VI v vi  = 1min 6 5min 4min
+     v VII =     5min 7
+
+III VII i IV
+or
+I V vi ii in G
+is it A or Am?
+
+8/8/16
+  8/16/16
+  8/16/16
