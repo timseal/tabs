@@ -1,0 +1,189 @@
+CUYAHOGA (Version 1)
+
+
+
+There are two ways to play the intro riff.  The more accurate way is to tune
+your low E string down to D.  If you want to be able to play normal chord
+shapes, though, this way is better:
+
+G(3) --2------2----|
+D(4) 0-----0-----0-|
+              A(5) |--5-----5-5-----|--2-------2-----|--5-5---5-5-----|
+              E(6) |3-----3-----3---|0-----0-------0-|3-----3-----3---|
+
+      D                 G         Em          G    (repeat throughout verse)
+Let's put our heads together and start a new country up
+Our father's father's father tried, erased the parts he didn't like
+Let's try to fill it in, bank the quarry river, swim
+We knee-skinned it you and me, we knee-skinned that river red
+
+Em               Bm      Em               F#m
+This is where we walked, this is where we swam
+Em               Bm  Em           D
+Take a picture here, take a souvenir
+
+      D                 G         Em          G    (repeat throughout verse)
+This land is the land of ours, this river runs red over it
+We knee-skinned it you and me, we knee-skinned that river red
+And we gathered up our friends, bank the quarry river, swim
+We knee-skinned it you and me, underneath the river bed
+
+(see below...)
+This is where we walked, this is where we swam
+Take a picture here, take a souvenir
+
+Cuyahoga           D - Em -/G - Bm -/D D D D/ Asus4 A A2 A
+Cuyahoga, gone     D - Em -/G - Bm -/D - Em -/G - - -
+
+      D                 G         Em          G    (repeat throughout verse)
+Let's put our heads together, start a new country up,
+Underneath the river bed we burned the river down.
+This is where they walked, swam, hunted, danced and sang,
+Take a picture here, take a souvenir
+Cuyahoga
+Cuyahoga, gone
+
+Bm              F#m               G
+Rewrite the book and rule the pages, saving face, secured in faith
+Bm               F#m    G
+Bury, burn the waste behind you
+
+(intro riff)
+
+      D                 G         Em          G    (repeat throughout verse)
+This land is the land of ours, this river runs red over it
+We are not your allies, we can not defend
+This is where they walked, this is where they swam
+Take a picture here, take a souvenir
+
+Cuyahoga           D - Em -/G - Bm -/D D D D/ Asus4 A A2 A
+Cuyahoga, gone     D - Em -/G - Bm -/D - Em -/G - - -
+Cuyahoga           D - Em -/G - Bm -/D D D D/ Asus4 A A2 A
+Cuyahoga, gone     D - Em -/G - Bm -/D - Em -/G - - -
+
+
+This is what to do for the "this is where we walked..." part:
+
+     Em               Bm                Em               F#m
+e(1) --just--jam-----|2-----2----------|--Em-again...---|2-----2----------|
+B(2) ------on--------|-----------3-----|----------------|-----------2-----|
+G(3) --------Em------|-------------4---|----------------|-------------2---|
+
+
+
+
+
+CUYAHOGA (Version 2)
+
+
+DROP D (DADGBe)
+/=slide
+
+Intro:
+  D       G       Em      G
+e --------------------------------
+B --------------------------------
+G --------------------------------
+D --------------------------------
+A -0=-0=---5=-55---2=--2=--55-55--
+D 0--0--0=5--5--5s2--2=--25--5--5-
+  1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-
+                 /        /
+
+Verse lick:
+(damp 4th string runs with heel of picking hand)
+       D       G       Em      G
+     e 2222=---3-----3---------------3-
+     B 3333=---3---3---------------3---
+     G 4442=---0------------2-0--------
+     D 0000=4200-------2224=-4---------
+     A 0000----x-------222-------------
+     D 0000----3-------222-----3-------
+       1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-
+                          /
+Let's put our . . .
+Let's try to . . .
+
+Chorus Part A:
+   Em    Bm        Em    F#m       Em    Bm        Em    D  (BIG!)
+e -------2----2-0--------2----2----------2----2-0--------2--------
+B -------3---------------2------2--------3---------------3--------
+G -------4---------------2---------------4---------------2--------
+D -------4---------------2---------------4---------------0--------
+A 02=02002--------02=02004--------02=02002--------02=02000--------
+D 02=0200x--------02=02004--------02=02002--------02=02000--------
+  1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-
+  This is where...
+
+Verse = This land . . .
+Verse = We gathered up . . .
+Chorus Part A = This is where . . .
+
+Chorus Part B:               Aadd9
+  D   Em  G   Bm  D         A |A  D   Em  G   Bm  D   Em  G (hold it)
+e 22--00--33--22--22-2-2-22-0000--22--00--33--22--22--00--33-------
+B 33--00--33--33--33-3-3-33-2202--33--00--33--33--33--00--33-------
+G 22--00--00--44--22-2-2-22-2222--22--00--00--44--22--00--00-------
+D 00--22--00--44--00-0-0-00-2222--00--22--00--44--00--22--00-------
+A 00--22--55--22------------0000--00--22--xx--22--00--22--55-------
+D 00--22--55--xx------------------00--22--55--xx--00--22--55-------
+  -1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-
+     Cuyahoga . . .
+
+Verse = Let's put . . .
+Chorus A = This is where . . .
+Chorus B = Cuyahoga . . .
+
+Bridge: (remember G is 550033 low to high)
+Bm / A / G / G / Bm / A / G / G
+Rewrite . . .    Bury . . .
+
+Intro
+Verse = This land is . . .
+Chorus A = This is where . . .
+Chorus B = Cuyahoga . . .
+
+Last time through hold G an extra bar and finish with D
+
+
+Lyrics:
+
+Let's put our heads together and start a new country up
+Our father's father's father tried, erased the parts he didn't like
+Let's try to fill it in, bank the quarry river, swim
+We knee-skinned it you and me, we knee-skinned that river red
+
+This is where we walked, this is where we swam
+Take a picture here, take a souvenir
+
+This land is the land of ours, this river runs red over it
+We knee-skinned it you and me, we knee-skinned that river red
+And we gathered up our friends, bank the quarry river, swim
+We knee-skinned it you and me, underneath the river bed
+
+This is where we walked, this is where we swam
+Take a picture here, take a souvenir
+Cuyahoga
+Cuyahoga, gone
+
+Let's put our heads together, start a new country up,
+Underneath the river bed we burned the river down.
+This is where they walked, swam, hunted, danced and sang,
+Take a picture here, take a souvenir
+Cuyahoga
+Cuyahoga, gone
+
+Rewrite the book and rule the pages, saving face, secured in faith
+Bury, burn the waste behind you
+
+This land is the land of ours, this river runs red over it
+We are not your allies, we can not defend
+This is where they walked, this is where they swam
+Take a picture here, take a souvenir
+
+Cuyahoga
+Cuyahoga, gone
+Cuyahoga
+Cuyahoga, gone
+
+

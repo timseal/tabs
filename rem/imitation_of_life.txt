@@ -1,0 +1,181 @@
+Imitation of Life
+from:  Ben (ben.bedo@home.com)
+
+CHORDS:
+
+   EADGBE
+Em 022000
+Am X02210
+G  320033
+D  XX0232
+C  X32010
+C7 X32030
+
+Strum chord once in verses
+
+Chorus Riff:
+  
+  G         Em          Am         C   D         G         Em
+        
+E|----3---3-----0---0-------0---0-|----2---2---2-----3---3----0---0|
+B|------3---------0-----1-----1---|1---3-----3---------3--------0--|
+G|0---------0-----------2---------|2---2---------0---------0-------|
+D|0---------2-----------2---------|0---0---------0---------2-------|
+A|2---------2-----------0---------|3-------------2---------2-------|
+E|3---------0---------------------|--------------3---------0-------|
+
+      Am        C   D              Dsus4 D           
+
+E|--------0---0-----2---2---2-----|3-----2-------------------------|
+B|----1-----1---1---3-----3---3---|--3-----3-----------------------|
+G|----2---------2---2-----------2-|----2-----2---------------------|
+D|----2---------0---0-------------|--------------------------------|
+A|----0---------3-----------------|--------------------------------|
+E|--------------------------------|--------------------------------|
+
+Bridge Riff:
+
+C7
+|--0----
+|----3--
+|-------
+|-------
+|3------
+|-------
+
+
+
+Play Chorus Riff Once, then...
+
+VERSE:
+
+
+Em                Am
+   charades, pop skill
+
+      G        D           Em
+water hyacinth, named by a poet.
+
+
+   Am        G   D
+imitation of life
+
+Em        Am       G
+   like a koi in a frozen pond
+
+D               Em
+like a goldfish in a bowl
+
+G              D
+I dont want to hear you cry
+
+
+CHORUS: 
+
+      G              Em
+thats sugarcane that tasted good
+
+      Am             C        D
+thats cinnamon thats hollywood
+  G            Em              Am  C D
+c'mon c'mon no one can see you try
+
+
+VERSE:
+
+Em              Am
+   you want the greatest thing
+
+    G                    D
+the greatest thing since bread came sliced.
+
+Em                Am                 G      D
+    you've got it all, you've got it sized.
+
+Em         Am             G
+    like a friday fashion show teenager
+
+D               Em
+freezing in the corner
+
+Am                  G            D
+trying to look like you dont try
+
+CHORUS:
+
+      G              Em
+thats sugarcane that tasted good.
+
+      Am             C    D
+thats cinnamon thats hollywood
+
+  G            Em              Am  C D
+c'mon c'mon no one can see you try
+
+BRIDGE:
+
+C7
+
+no one can see you cry
+
+CHORUS:
+
+      G              Em
+thats sugarcane that tasted good
+
+      Am                  C        D
+thats freezing rain thats what you could
+
+  G            Em              Am  C D
+c'mon c'mon no one can see you cry
+
+
+[low-mixed acoustic guitar]
+
+     G
+this sugarcane
+
+     Em
+this lemonade
+
+     Am             C   D
+this hurricane, i'm not afraid.
+
+  G            Em             Am  C D
+c'mon c'mon no one can see me cry
+
+[electric]
+
+     G
+this lightning storm
+
+     Em
+this tidal wave
+
+     Am             C    D
+this avalanche, i'm not afraid.
+
+  G            Em             Am  C D
+c'mon c'mon no one can see me cry
+
+CHORUS: 
+
+      G              Em
+thats sugarcane that tasted good
+
+      Am                 C        D
+thats who you are, thats what you could
+
+  G            Em              Am  C D
+c'mon c'mon no one can see you cry
+
+CHORUS:
+
+      G              Em
+thats sugarcane that tasted good
+
+      Am                 C        D
+thats who you are, thats what you could
+
+  G            Em              Am  C D
+c'mon c'mon no one can see you cry
