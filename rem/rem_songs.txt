@@ -6,13 +6,13 @@ g ----------4------4--------4------4---
 d --------4---4------4-----------------
 a ---0h2-------------------------------
 
-This is played a few times then it's 
-A E 
+This is played a few times then it's
+A E
 A E
 
 Chorus
-F# F# A E 
-F# F# A E 
+F# F# A E
+F# F# A E
 F# F# A E
   D A E (repeated a few times at the end)
 end with the riff again.
@@ -27,7 +27,7 @@ G C#7
 G C#7
 
 Chorus
-Am D 
+Am D
    draw in the air
 Bm E
    just don't care
@@ -52,8 +52,8 @@ he's alive
 
 
 Bridge
-F Em 
-F Em 
+F Em
+F Em
 F G
 
 Outro part is back to D A G.
@@ -120,61 +120,3 @@ Emadd9 022003 to G
 # If you have any corrections or additions to this file, please email them
 # to cbray@comp.uark.edu
 #
-
-AUCTIONEER (ANOTHER ENGINE) (Version 1)
-
-
-Main riff:
-
-D(1) ------0---------|2---------------|  (tune e(1) down a whole step)
-B(2) ----0-----0-----|--2---3---2h3p2-|
-G(3) --0---------0---|----2-----------|
-D(4) 2-------------2-|
-
-
-
-AUCTIONEER (ANOTHER ENGINE) (Version 2)
-
-
-Transcribed by Mike Iafrate
-
-Main Figure (intro/verses)
-  E                         A
-e-------------------------------------------------------------||
-B-------------------------------------------------------------||
-G-------------7----------------------------------------------O||(repeat)
-D---------9-------9--------14--14--14--12--11----------------O||
-A-----7---------------------0---0---0---0---0-----------------||
-E-0-------------------0---------------------------------------||
-
-(During the intro and breakdown, Peter sticks to this. During the verse,
-however,
-he adlibs a bit and instead of hitting the second &quot;7&quot; of the riff, he will
-substitute
-by hitting the high E string or some other random note.)
-
-Pre-chorus
- F       E5      F               E5     F       E5         F       E5
-Lis-ten, lis-ten to the auc-tion-eer. A-no-ther en-gine, a-no-ther en-gine.
-Chord fingerings
-   F      E5
-e--0-------0---
-B--0-------0---
-G--10------9---
-D--10------9---
-A--8-------7---
-E--8-------7---
-
-Chorus riff
-e-0----0----0---0-0-0-0-0-0--------0----0----0----0--0--0--0--0--------
-B-8---10---12---5-5-5-5-5-5-etc.---8---10---12---15-15-15-15-15-etc.---
-
-End figure (coming out of chorus riff at end of song)
-e-----------------------
-B-----------------------
-G-------------9---------
-D---------9---9---------
-A-----7-------7---------
-E-0-----------0---------
-
-Visit www.directtabs.com for more tabs.
