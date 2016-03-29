@@ -1,0 +1,24 @@
+[playlist]
+File1=05-Auctioneer.flac
+File2=04-Staring_Down_the_Barrel_of_the_Middle_Distance.flac
+File3=11-Carnival_of_Sorts_(Box_Cars).flac
+File4=19-Circus_Envy.flac
+File5=08-This_Hollywood_Life-1higher.flac
+File6=02-Monkey_Wrench.flac
+File7=02-Still Ill.flac
+Length1=0
+Length2=0
+Length3=0
+Length4=0
+Length5=0
+Length6=0
+Length7=0
+NumberOfEntries=7
+Title1=05-Auctioneer.flac
+Title2=04-Staring_Down_the_Barrel_of_the_Middle_Distance.flac
+Title3=11-Carnival_of_Sorts_(Box_Cars).flac
+Title4=19-Circus_Envy.flac
+Title5=08-This_Hollywood_Life-1higher.flac
+Title6=02-Monkey_Wrench.flac
+Title7=02-Still Ill.flac
+Version=2
